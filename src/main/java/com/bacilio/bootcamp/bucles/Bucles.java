@@ -18,7 +18,7 @@ public class Bucles {
         bucles.generarNumRandom();
     }
 
-    //1. Genetar un metodo que imprima 10 numeros random:
+    //1. Genetar un metodo que imprima 10 numeros random:.
     // create to code:
     //2. Generar un metodo que imprima un numero que este dentro 1>= N <=10
     // create to code:
@@ -98,5 +98,4 @@ public class Bucles {
     public String getName(String name, int edad) {
         return "Mi nombre es " + name + " y mi edad es  " + edad;
     }
-
 }
