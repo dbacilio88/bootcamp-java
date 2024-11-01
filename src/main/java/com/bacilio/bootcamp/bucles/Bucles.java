@@ -98,5 +98,4 @@ public class Bucles {
     public String getName(String name, int edad) {
         return "Mi nombre es " + name + " y mi edad es  " + edad;
     }
-
 }
